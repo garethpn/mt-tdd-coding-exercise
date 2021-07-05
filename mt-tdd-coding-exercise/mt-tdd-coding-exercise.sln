@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mt-tdd-coding-exercise", "mt-tdd-coding-exercise\mt-tdd-coding-exercise.csproj", "{13BA29B6-1805-4EC7-AFC6-ABE70723BBE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mt-tdd-coding-exercise-tests", "mt-tdd-coding-exercise-tests\mt-tdd-coding-exercise-tests.csproj", "{69888EBF-05B2-4DA8-9CE9-C1E604932473}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13BA29B6-1805-4EC7-AFC6-ABE70723BBE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13BA29B6-1805-4EC7-AFC6-ABE70723BBE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13BA29B6-1805-4EC7-AFC6-ABE70723BBE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13BA29B6-1805-4EC7-AFC6-ABE70723BBE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69888EBF-05B2-4DA8-9CE9-C1E604932473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69888EBF-05B2-4DA8-9CE9-C1E604932473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69888EBF-05B2-4DA8-9CE9-C1E604932473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69888EBF-05B2-4DA8-9CE9-C1E604932473}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF9CECCF-6AAE-4767-969E-765A7A679252}
+	EndGlobalSection
+EndGlobal
